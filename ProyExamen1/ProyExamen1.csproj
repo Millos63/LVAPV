@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F60FDC91-FA7E-4145-9468-E17F4F7317D4}</ProjectGuid>
+    <ProjectGuid>{95B023BC-633A-4C03-BAE1-2AAFD39195EC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>LVAPV07</RootNamespace>
-    <AssemblyName>LVAPV07</AssemblyName>
+    <RootNamespace>ProyExamen1</RootNamespace>
+    <AssemblyName>ProyExamen1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -52,28 +52,10 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmDos.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FrmDos.Designer.cs">
-      <DependentUpon>FrmDos.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Principal.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Principal.Designer.cs">
-      <DependentUpon>Principal.cs</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FrmDos.resx">
-      <DependentUpon>FrmDos.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Principal.resx">
-      <DependentUpon>Principal.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
