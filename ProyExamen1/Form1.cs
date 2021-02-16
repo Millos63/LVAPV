@@ -31,5 +31,20 @@ namespace ProyExamen1
         {
 
         }
+
+        private void chcServicioSocialConcluido_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void checkBox8_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void grpDatosEmpresa_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }
