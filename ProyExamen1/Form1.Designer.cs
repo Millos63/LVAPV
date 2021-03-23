@@ -140,7 +140,7 @@
             this.grpDocumentosEntregados.Controls.Add(this.chcSolicitud);
             this.grpDocumentosEntregados.Location = new System.Drawing.Point(22, 395);
             this.grpDocumentosEntregados.Name = "grpDocumentosEntregados";
-            this.grpDocumentosEntregados.Size = new System.Drawing.Size(930, 160);
+            this.grpDocumentosEntregados.Size = new System.Drawing.Size(930, 127);
             this.grpDocumentosEntregados.TabIndex = 0;
             this.grpDocumentosEntregados.TabStop = false;
             this.grpDocumentosEntregados.Text = "Documentos Entregados";
@@ -160,7 +160,7 @@
             this.grpDatosEmpresa.Controls.Add(this.txtContacto);
             this.grpDatosEmpresa.Controls.Add(this.lblContacto);
             this.grpDatosEmpresa.Controls.Add(this.lstEmpresas);
-            this.grpDatosEmpresa.Location = new System.Drawing.Point(22, 561);
+            this.grpDatosEmpresa.Location = new System.Drawing.Point(22, 528);
             this.grpDatosEmpresa.Name = "grpDatosEmpresa";
             this.grpDatosEmpresa.Size = new System.Drawing.Size(930, 230);
             this.grpDatosEmpresa.TabIndex = 0;
